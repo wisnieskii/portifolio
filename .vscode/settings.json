@@ -1,0 +1,7 @@
+{
+  "editor.unicodeHighlight.includeComments": "inUntrustedWorkspace",
+  "editor.unicodeHighlight.includeStrings": "inUntrustedWorkspace",
+  "prettier.resolveGlobalModules": true,
+  "prettier.withNodeModules": true,
+  "terminal.integrated.defaultProfile.windows": "Windows PowerShell"
+}
